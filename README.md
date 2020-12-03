@@ -1,6 +1,5 @@
 # 108trigo
-
-{EPITECH} | First year | Math project
+# {EPITECH} | First year | Math project
 
 As you may know (or not), the exponential function can be written as the sum of a power series:
 
@@ -18,20 +17,21 @@ See the subject for further details !
 
 ========================
 
-2nd semester Maths unit
+## 2nd semester Maths unit
 
 Grade : B | Mark : 7.3
 
-Score : 41.7%
+| Category          | Percentage | Tests     | Crash ? |
+|-------------------|------------|-----------|---------|
+| Basic             | 66.7%      | 2/3       | x       |
+| Cosine            | 0%         | 0/5       | x       |
+| Exponential       | 100%       | 5/5       | x       |
+| Hyperbolic cosine | 0%         | 0/5       | x       |
+| Hyperbolic sine   | 0%         | 0/5       | x       |
+| Rigor             | 100%       | 8/8       | x       |
+| Sine              | 0%         | 0/5       | x       |
+| **End scores**    | **41.7%**  | **15/36** | **No**  |
 
-  - Basic : 66.7% --- 2/3
-  - Cosine : 0% --- 0/5
-  - Exponential : 100% --- 5/5
-  - Hyperbolic cosine : 0% --- 0/5
-  - Hyperbolic sine : 0% --- 0/5
-  - Rigor : 100% --- 8/8
-  - Sine : 0% --- 0/5
-
-Made with Quentin TREHEUX (LuciferBahamut)
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
 Beware of -42 Epitech students !!!
